@@ -1,0 +1,24 @@
+{
+  "n_total_eligible": 17379,
+  "group_a_n": 11413,
+  "group_b_n": 5966,
+  "group_a_mean": 204.8692718829405,
+  "group_a_sd": 189.4877734236329,
+  "group_b_mean": 159.990948709353,
+  "group_b_sd": 160.73787709126702,
+  "mean_difference_group_b_minus_group_a": -44.87832317358749,
+  "mean_difference_95ci": [
+    -50.23801949762451,
+    -39.51862684955047
+  ],
+  "welch_t_statistic": -16.412783890743924,
+  "welch_df": 13935.517605338788,
+  "welch_p_value_two_sided": 5.655686359929606e-60,
+  "cohens_d_group_b_minus_group_a": -0.24913474314912426,
+  "robustness_weather_coefficient": -37.88693438695654,
+  "robustness_weather_coefficient_95ci": [
+    -41.29393785491672,
+    -34.47993091899636
+  ],
+  "robustness_weather_p_value": 2.565027336735514e-105
+}
